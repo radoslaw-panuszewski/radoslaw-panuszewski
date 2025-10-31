@@ -2,8 +2,7 @@
 
 Kotlin & Gradle enthusiast, greatly believing in the power of Open Source! 🔥
 
-Check out my blog 😉 -> https://panuszewski.dev
+## My talks
 
-## GitHub stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radoslaw-panuszewski&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+* [Purging Chaos from Your Gradle Build](https://youtu.be/HJZI-eaLmXc?si=Iw6yXhLTV2I0bIuF) [JDD 2025]
+* [The Future of JVM Build Tools](https://youtu.be/wy-utjogkUw?si=qDziDVGkHKozfy7S) [ATM 2025]
