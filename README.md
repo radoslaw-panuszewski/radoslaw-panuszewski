@@ -3,7 +3,7 @@
 
 ### `$ whoami`
 
-Kotlin & Gradle enthusiast, strongly believing in the power of Open Source 🔥
+Build Engineer in [Kotlin](https://github.com/JetBrains/kotlin) at JetBrains; Gradle freak; still believing in Open Source 😄
 
 ### `$ ls ~/open-source-projects`
 
