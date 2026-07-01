@@ -3,7 +3,9 @@
 
 ### `$ whoami`
 
-Build Engineer in [Kotlin](https://github.com/JetBrains/kotlin) at JetBrains; Gradle freak; still believing that Open Source is the right thing to do 🫡
+* Build Engineer in [Kotlin](https://github.com/JetBrains/kotlin) at JetBrains
+* Kotlin & Gradle enthusiast
+* still believing in Open Source in th AI era
 
 ### `$ ls ~/open-source-projects`
 
