@@ -1,5 +1,4 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/radoslaw-panuszewski)
-&nbsp;<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhq12o7m008yjs059ez4r37x"><img width="25" style="margin-left:100px;" src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 badge"></a>
 
 ### `$ whoami`
 
