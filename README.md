@@ -4,7 +4,7 @@
 
 * Build Engineer in [Kotlin](https://github.com/JetBrains/kotlin) at JetBrains
 * Kotlin & Gradle enthusiast
-* still believing in Open Source in th AI era
+* still believing in Open Source in the AI era
 
 ### `$ ls ~/open-source-projects`
 
